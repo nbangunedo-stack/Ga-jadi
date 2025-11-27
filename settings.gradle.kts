@@ -1,0 +1,2 @@
+rootProject.name = "MonetHelper"
+include(":app")
