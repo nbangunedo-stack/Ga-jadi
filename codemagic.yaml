@@ -14,5 +14,4 @@ workflows:
           ./gradlew assembleDebug
     artifacts:
       - app/build/outputs/**/*.apk
-    publishing:
-      email: false
+    publishing: {}
